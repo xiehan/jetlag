@@ -95,4 +95,4 @@ The following playbook is 1-indexed based on your day of arrival, which may or m
 
 ## Other Tips
 
-- If you're like me and charge your phone overnight and have the [Adaptive Charging](https://support.google.com/pixelphone/answer/6090612?hl=en#adaptive_charging&zippy=%2Chow-to-use-adaptive-charging-pixel-later-including-fold) feature turned on to prolong battery life, you may want to disable that for the duration of your trip. Few things are less annoying than waking up at 6am, being unable to go back to sleep, and your phone not being charged.
+- If you're like me and charge your phone overnight and have the [Adaptive Charging](https://support.google.com/pixelphone/answer/6090612?hl=en#adaptive_charging&zippy=%2Chow-to-use-adaptive-charging-pixel-later-including-fold) feature turned on to prolong battery life, you may want to disable that for the duration of your trip. Few things are more annoying than waking up at 6am, being unable to go back to sleep, and your phone not being charged.
