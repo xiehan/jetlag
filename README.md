@@ -56,12 +56,13 @@ The following playbook is 1-indexed based on your day of arrival, which may or m
 
 #### In the evening / If your flight arrives after 6pm
 
-- Once it's dark out, no more napping. At all. Not even a 20-minute power nap. Remember the Golden Rule: just make it to 9pm. Gotta make it to 9pm.
+- Once it's dark out, no more napping. At all. Not even a 20-minute power nap. Remember the Golden Rule: just make it to 9pm.
 - Unless your flight gets in really late (8pm+), you'll want to have dinner. Aim for a normal time but maybe push it just a _little_ later; for example, if you normally have dinner around 6:30pm, maybe try to push it to 7 this time. The reason is that the minute you're done eating, you'll probably feel overwhelmingly tired and ready for bed, so the later you can push dinner, the better.
   - Avoid a super heavy carby meal for that reason.
   - It's not a bad idea to have dessert since the sugar might be able to give you an extra 30~60 minutes of energy. Just don't go overboard and have something that will make you sugar crash super hard.
   - If you know somebody local, see if you can meet up with them for dinner. Make sure that they know and understand that you've just flown in and you're unlikely to be your usual energetic and talkative self; their job in this case is to entertain you and help you stay awake. A good friend will understand the assignment.
-- Absolutely no caffeine under any circumstances at this point. Do drink fluids, but do so in moderation. One challenge that you're going to face soon is trying to sleep through the night, and if you drink a lot (even just water) and have to go to the bathroom constantly, that can be a problem. 
+- Absolutely no caffeine under any circumstances at this point. Do drink fluids, but do so in moderation. One challenge that you're going to face soon is trying to sleep through the night, and if you drink a lot (even just water) and have to go to the bathroom constantly, that can be a problem.
+- If your flight gets in late and you actually got _a lot_ of rest on the plane, you might have the opposite problem, where going to sleep on time can be a challenge; you should probably aim to be in bed no later than midnight, depending on what time you have to be up by in the morning (you should be aiming for 8-9 hours of sleep). If that's the case, the goal tonight is to wear yourself out; go for a run, hit up the hotel gym or pool, or do whatever you need to to burn up those energy reserves.
 
 #### During the night
 
